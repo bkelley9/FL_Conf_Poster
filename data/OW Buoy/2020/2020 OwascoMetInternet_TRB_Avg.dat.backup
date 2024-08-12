@@ -1,0 +1,5 @@
+"TOA5","OwascoMetInternet","CR1000","60228","CR1000.Std.26","CPU:Owasco_MET.cr1","22473","TRB_Avg"
+"TIMESTAMP","RECORD","AirTempC_Avg","RHumidity_Avg","P_mb_Avg","SolarRad_Avg","Precip_mm_Max","Precip_mm_TMx"
+"TS","RN","","","","","",""
+"","","Avg","Avg","Avg","Avg","Max","TMx"
+"2019-10-30 12:35:30",52859,14.13,86.2,998.0998,89.8,0,"2019-10-30 12:30:30"

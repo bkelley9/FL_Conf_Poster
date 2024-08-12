@@ -1,0 +1,13 @@
+name: owbuoy_dashboard
+title: owbuoy_dashboard
+username: flihws
+account: flihws
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10908825
+bundleId: 8186996
+url: https://flihws.shinyapps.io/owbuoy_dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 2023_report.R|chla_conversion.R|pc_conversion.R|poster.R|processing.R|www/FLIlogo.png|2023 Field Data|data|images

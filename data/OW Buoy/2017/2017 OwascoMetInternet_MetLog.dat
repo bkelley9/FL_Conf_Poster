@@ -1,0 +1,6 @@
+"TOA5","OwascoMetInternet","CR1000","60228","CR1000.Std.26","CPU:Owasco_MET.cr1","333","MetLog"
+"TIMESTAMP","RECORD","Event","Details"
+"TS","RN","",""
+"","","Smp","Smp"
+"2017-04-02 16:19:36.44",11,"***** Datalogger Reset *****","Program Signature: 333; Profiler version: 8.2; debug: 0; CommMode: 0(NONE); MetMode: 1."
+"2017-04-12 16:27:56.59",12,"***** Datalogger Reset *****","Program Signature: 333; Profiler version: 8.2; debug: 0; CommMode: 0(NONE); MetMode: 1."
